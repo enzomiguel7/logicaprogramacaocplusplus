@@ -1,0 +1,8 @@
+Para criar uma pasta criada no repositório:
+git clone <endereço que esta no repositório>
+
+
+git init -> inicia o repositório
+git add . -> adiciona todos os arquivos criados
+git commit -m "comentario" - ADICIONA UM COMENTÁRIO PARA SER INSERIDO NO REPOSITÓRI
+git push -- adiciona  o arquivo criado ao repositorio
